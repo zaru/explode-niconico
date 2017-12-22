@@ -1,0 +1,26 @@
+{
+  "name": "explode-niconico",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaru/explode-niconico.git"
+  },
+  "author": "zaru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaru/explode-niconico/issues"
+  },
+  "homepage": "https://github.com/zaru/explode-niconico#readme",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-image-explode": "^1.0.20"
+  }
+}
